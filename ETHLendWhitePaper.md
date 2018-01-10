@@ -235,7 +235,7 @@ ETHLend will purchase additional amount of LEND (which will be decided during Q1
 
 <p>Decentralization provides more security and trust by design. Decentralization is a method to organise anything in a way that does not require trust on third parties. The trust is eliminated by executing code that does not require central government, management or central servers.</p>
 
-<p>Decentralization changes dramatically the architecture of lending. By decentralizing lending, we do not require banks or any other intermediaries for conducting a loan transaction. Decentralization means also that borrowers and lenders do not need to trust even ETHLend once the Smart Contract is deployed to the Ethereum network. These Smart Contracts provide a trustless and transparent lending environment, which is not available on todays FIAT lending market. Trustless means that no one can interfiere, stop or manipulate the loan once deployed. Transparent means that anyone can see the deployed transaction on blockchain ledger by using a blockexplorer. There is no equivalent power on found on centralized environment.</p>
+<p>Decentralization changes dramatically the architecture of lending. By decentralizing lending, we do not require banks or any other intermediaries for conducting a loan transaction. Decentralization means also that borrowers and lenders do not need to trust even ETHLend once the Smart Contract is deployed to the Ethereum network. These Smart Contracts provide a trustless and transparent lending environment, which is not available on todays FIAT lending market. Trustless means that no one can interfere, stop or manipulate the loan once deployed. Transparent means that anyone can see the deployed transaction on blockchain ledger by using a blockexplorer. There is no equivalent power on found on centralized environment.</p>
 
 ## <h3>Trustless</h3>
 
@@ -259,7 +259,14 @@ ETHLend will purchase additional amount of LEND (which will be decided during Q1
 
 <p>Democracy to lending market. Blockchain-based lending removes barriers between segregated lending markets. By using ETH and the Ethereum network, lenders and borrowers can arrange loan transactions from anywhere to anyone, address-to-address. The effect is that there is more liquidity available at markets that have been previously restricted or segregated. Moreover, by using this structure lenders and borrowers do not need banks to transfer the loan capital back and forth. Therefore, fractioned and divided global lending market becomes more democratic and accessible.</p>
 
-<p>Global liquid pool on supply and demand. When the lending market becomes a whole instead of fractioned, there is more access to competition. Access to capital ensures that borrowers have more choices and the interest rate is lower due to increase in competition. For the lenders it results that there are more options to fund and to choose the risk from instead of relying on local lending market offerings.</p>
+<p>Global liquid pool on supply and demand. When the lending market becomes a whole instead of fractioned, there is more access to competition. Access to capital ensures that borrowers have more choices and the 
+	
+	
+	
+	
+	
+	
+	est rate is lower due to increase in competition. For the lenders it results that there are more options to fund and to choose the risk from instead of relying on local lending market offerings.</p>
 
 <p>Access to finance. Crypto-currencies do provide basic banking needs for the unbanked. We should always reminded ourselves that there is 2.5 billion people that do not have a decent access to the banking system. Since banks are the general source of finance, the unbanked do not have sufficient access to finance either.</p>
 
